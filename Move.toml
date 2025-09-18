@@ -1,0 +1,16 @@
+[package]
+name = "token-reward-system"
+version = "1.0.0"
+authors = []
+
+[addresses]
+challenge_rewards = "0x8da08825f23d9ca2edf50ab98ebe77da57e05781714f1c6b8bf59c38d86902a2"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
