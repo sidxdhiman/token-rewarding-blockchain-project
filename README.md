@@ -143,7 +143,7 @@ This basic implementation can be extended with:
 
 ## Transaction Proof
 
-(./txn-ref.png)
+![Transaction Proof](./txn-ref.png)
 
 ---
 
